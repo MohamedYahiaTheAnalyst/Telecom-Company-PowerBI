@@ -29,3 +29,13 @@ I created the required relationships in the model view. The data model is as the
 
 
 ![alt text](https://github.com/MohamedYahiaTheAnalyst/Telecom-Company-PowerBI/blob/main/Data%20Model.jpg?raw=true)
+
+## 3rd. Step: Creating measures
+I used DAX to calculate important values as cost variance, revenue variance and customer base variance.
+I groubed all measres in seprite table.
+
+## 4th. Stpe: Creating the dashboard
+The final design is in the following image
+
+
+
