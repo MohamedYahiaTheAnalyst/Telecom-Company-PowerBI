@@ -37,5 +37,8 @@ I groubed all measres in seprite table.
 ## 4th. Stpe: Creating the dashboard
 The final design is in the following image
 
+![alt text](https://github.com/MohamedYahiaTheAnalyst/Telecom-Company-PowerBI/blob/main/Final%20dashboard.jpg?raw=true)
+
+
 
 
